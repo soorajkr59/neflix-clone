@@ -1,0 +1,51 @@
+.navbar
+{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black; 
+}
+.logo1
+{
+   position: fixed;
+   left: 20px;
+   width: 80px;
+
+}
+.logo2
+{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+}
+.dvd
+{
+
+    position: fixed;
+    right: 120px;
+    color: #fff;
+ 
+    
+}
+.Notification
+{
+    position: fixed;
+    right: 70px;
+    width: 30px;
+}
+.kids{
+    position: fixed;
+    right: 170px;
+    color: #fff;
+}
+.search
+{
+    position: fixed;
+    right: 220px;
+    color: #fff;
+    width: 25px;
+}
